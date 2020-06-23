@@ -1,0 +1,25 @@
+========================================================
+////////	DREADSTAR -- The DM Model	////////
+========================================================
+
+DATE OF RELEASE: September 7,´1999
+
+At least, my first model has been released !!!
+
+Here is some technical info about it:
+
+	AUTHOR: Pedro Serrano "DUBOSKY" 
+	SOFTWARE USED: 3dStudio Max R2, Photoshop 3.0, Paint Shop Pro 5.0
+	TIME SPENT: 12 hours (maybe, I'm not sure)
+	
+	FACES:953 (sorry about this)
+	VERTICES:490
+	SKIN: 256x256, 256 colors image
+	
+The model is based in the comic star Vanth Dreadstar, from the "Dredstar" series by Jim Starlin.
+
+Enjoy it!!!
+
+Notes: if anyone wants to animate the pistol bag (with new bones) you have my permision to create a better version of this model (just show my name in your credits).	
+
+Copyright (c) Pedro Serrano 1999.	serrdowsky@arrakis.es

@@ -1,0 +1,5 @@
+Cooking Mama model from https://www.models-resource.com/3ds/cookingmama5bonappetit/model/22630/
+Rigged and paletted for Sven Co-op by JTE
+
+Color1: Bandanna (Pink)
+Color2: Apron (Yellow)
