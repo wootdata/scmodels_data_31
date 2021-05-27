@@ -1,1 +1,1 @@
-{"seq_groups": 1, "events": [{"frame": "55", "seq": "8", "file": "vox\\woop.wav"}, {"frame": "95", "seq": "8", "file": "vox\\woop.wav"}, {"frame": "120", "seq": "8", "file": "vox\\error.wav"}], "tri_count": "940", "hash": "3564c3ef7247840eac36d315aed48621"}
+{"events": [{"file": "vox\\woop.wav", "frame": "55", "seq": "8"}, {"file": "vox\\woop.wav", "frame": "95", "seq": "8"}, {"file": "vox\\error.wav", "frame": "120", "seq": "8"}], "tri_count": "940", "hash": "3564c3ef7247840eac36d315aed48621", "seq_groups": 1}
