@@ -1417,55 +1417,55 @@
 		{
 			"flags": 0,
 			"height": 512,
-			"name": "衣服.bmp",
+			"name": ".bmp",
 			"width": 512
 		}, 
 		{
 			"flags": 0,
 			"height": 256,
-			"name": "头发.bmp",
+			"name": ".bmp",
 			"width": 512
 		}, 
 		{
 			"flags": 0,
 			"height": 552,
-			"name": "头.bmp",
+			"name": ".bmp",
 			"width": 552
 		}, 
 		{
 			"flags": 0,
 			"height": 552,
-			"name": "身体2.bmp",
+			"name": "2.bmp",
 			"width": 552
 		}, 
 		{
 			"flags": 0,
 			"height": 552,
-			"name": "身体3.bmp",
+			"name": "3.bmp",
 			"width": 552
 		}, 
 		{
 			"flags": 0,
 			"height": 512,
-			"name": "靴子.bmp",
+			"name": ".bmp",
 			"width": 512
 		}, 
 		{
 			"flags": 64,
 			"height": 200,
-			"name": "睫毛.bmp",
+			"name": ".bmp",
 			"width": 200
 		}, 
 		{
 			"flags": 0,
 			"height": 512,
-			"name": "帽子.bmp",
+			"name": ".bmp",
 			"width": 512
 		}, 
 		{
 			"flags": 0,
 			"height": 512,
-			"name": "裙子.bmp",
+			"name": ".bmp",
 			"width": 512
 		}
 	],
