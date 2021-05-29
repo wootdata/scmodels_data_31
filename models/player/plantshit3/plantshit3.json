@@ -1,1 +1,55 @@
-{"seq_groups": 1, "hash": "f0f9ef98ddf7b0f982e5b4dec14acc5d", "tri_count": "25"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "shrubv01_ref",
+					"polys": 25,
+					"verts": 27
+				}
+			],
+			"name": "studio"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "f0f9ef98ddf7b0f982e5b4dec14acc5d",
+	"name": "shrubv01.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 20.000000,
+			"frames": 101,
+			"name": "idle"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "trunk",
+			"parent": -1
+		}, 
+		{
+			"name": "leaves",
+			"parent": -1
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 255,
+			"name": "trunk3.bmp",
+			"width": 44
+		}, 
+		{
+			"flags": 64,
+			"height": 256,
+			"name": "shrub.bmp",
+			"width": 256
+		}
+	],
+	"version": 10
+}
