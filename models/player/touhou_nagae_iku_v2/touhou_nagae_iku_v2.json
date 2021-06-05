@@ -25,9 +25,9 @@
 		{
 			"models": [
 				{
-					"name": "iku_body1",
-					"polys": 2504,
-					"verts": 1276
+					"name": "body1",
+					"polys": 3462,
+					"verts": 1740
 				}
 			],
 			"name": "body"
@@ -35,7 +35,7 @@
 		{
 			"models": [
 				{
-					"name": "iku_body2",
+					"name": "body2",
 					"polys": 3414,
 					"verts": 1742
 				}
@@ -45,9 +45,9 @@
 		{
 			"models": [
 				{
-					"name": "iku_body3",
+					"name": "body3",
 					"polys": 3411,
-					"verts": 1739
+					"verts": 1740
 				}
 			],
 			"name": "body"
@@ -55,9 +55,9 @@
 		{
 			"models": [
 				{
-					"name": "iku_face",
+					"name": "face",
 					"polys": 3301,
-					"verts": 1932
+					"verts": 1933
 				}
 			],
 			"name": "body"
@@ -65,7 +65,7 @@
 		{
 			"models": [
 				{
-					"name": "iku_head1",
+					"name": "head1",
 					"polys": 252,
 					"verts": 155
 				}
@@ -75,7 +75,7 @@
 		{
 			"models": [
 				{
-					"name": "iku_a1",
+					"name": "a1",
 					"polys": 1028,
 					"verts": 670
 				}
@@ -85,7 +85,7 @@
 		{
 			"models": [
 				{
-					"name": "iku_a1_ct",
+					"name": "a1_ct",
 					"polys": 2604,
 					"verts": 1326
 				}
@@ -95,7 +95,7 @@
 		{
 			"models": [
 				{
-					"name": "iku_a2",
+					"name": "a2",
 					"polys": 380,
 					"verts": 248
 				}
@@ -105,7 +105,7 @@
 		{
 			"models": [
 				{
-					"name": "iku_a2_ct",
+					"name": "a2_ct",
 					"polys": 984,
 					"verts": 494
 				}
@@ -115,7 +115,7 @@
 		{
 			"models": [
 				{
-					"name": "iku_a3",
+					"name": "a3",
 					"polys": 584,
 					"verts": 390
 				}
@@ -125,7 +125,7 @@
 		{
 			"models": [
 				{
-					"name": "iku_a3_ct",
+					"name": "a3_ct",
 					"polys": 1552,
 					"verts": 773
 				}
@@ -135,7 +135,7 @@
 		{
 			"models": [
 				{
-					"name": "iku_a4",
+					"name": "a4",
 					"polys": 356,
 					"verts": 276
 				}
@@ -145,7 +145,7 @@
 		{
 			"models": [
 				{
-					"name": "iku_a4_ct",
+					"name": "a4_ct",
 					"polys": 356,
 					"verts": 276
 				}
@@ -155,7 +155,7 @@
 		{
 			"models": [
 				{
-					"name": "iku_a5",
+					"name": "a5",
 					"polys": 411,
 					"verts": 321
 				}
@@ -165,7 +165,7 @@
 		{
 			"models": [
 				{
-					"name": "iku_a5_ct",
+					"name": "a5_ct",
 					"polys": 1036,
 					"verts": 534
 				}
@@ -175,7 +175,7 @@
 		{
 			"models": [
 				{
-					"name": "iku_a6",
+					"name": "a6",
 					"polys": 674,
 					"verts": 505
 				}
@@ -185,7 +185,7 @@
 		{
 			"models": [
 				{
-					"name": "iku_a6_ct",
+					"name": "a6_ct",
 					"polys": 1628,
 					"verts": 823
 				}
@@ -195,9 +195,9 @@
 		{
 			"models": [
 				{
-					"name": "iku_cab",
+					"name": "cab",
 					"polys": 1880,
-					"verts": 952
+					"verts": 951
 				}
 			],
 			"name": "body"
@@ -205,7 +205,7 @@
 		{
 			"models": [
 				{
-					"name": "iku_dress1",
+					"name": "dress1",
 					"polys": 1872,
 					"verts": 981
 				}
@@ -215,7 +215,7 @@
 		{
 			"models": [
 				{
-					"name": "iku_dress2",
+					"name": "dress2",
 					"polys": 1724,
 					"verts": 862
 				}
@@ -225,7 +225,7 @@
 		{
 			"models": [
 				{
-					"name": "iku_dress3",
+					"name": "dress3",
 					"polys": 3356,
 					"verts": 1665
 				}
@@ -235,7 +235,7 @@
 		{
 			"models": [
 				{
-					"name": "iku_arm1",
+					"name": "arm1",
 					"polys": 848,
 					"verts": 454
 				}
@@ -245,7 +245,7 @@
 		{
 			"models": [
 				{
-					"name": "iku_foot",
+					"name": "foot",
 					"polys": 868,
 					"verts": 470
 				}
@@ -396,14 +396,14 @@
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "42",
+			"options": "20",
 			"sequence": 125,
 			"type": 0
 		}, 
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "42",
+			"options": "20",
 			"sequence": 128,
 			"type": 0
 		}, 
@@ -521,7 +521,7 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "fe5f895b09be1ba949426f076534b12e",
+	"md5": "6a330d031f9758e040082f7124fc078b",
 	"name": "touhou_nagae_iku.mdl",
 	"seq_groups": "1",
 	"sequences": [
@@ -1481,7 +1481,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 2046844,
+	"size": 2052508,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1583,12 +1583,6 @@
 		}, 
 		{
 			"flags": 0,
-			"height": 200,
-			"name": "dress1.bmp",
-			"width": 200
-		}, 
-		{
-			"flags": 0,
 			"height": 256,
 			"name": "face.bmp",
 			"width": 256
@@ -1618,7 +1612,13 @@
 			"width": 200
 		}, 
 		{
-			"flags": 64,
+			"flags": 0,
+			"height": 200,
+			"name": "dress1.bmp",
+			"width": 200
+		}, 
+		{
+			"flags": 0,
 			"height": 200,
 			"name": "race.bmp",
 			"width": 200
