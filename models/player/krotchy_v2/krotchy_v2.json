@@ -16,7 +16,7 @@
 			"type": 0
 		}, 
 		{
-			"bone": 10,
+			"bone": 16,
 			"name": "",
 			"type": 0
 		}
@@ -25,37 +25,17 @@
 		{
 			"models": [
 				{
-					"name": "SC_male_torso_ref",
-					"polys": 2628,
-					"verts": 1186
+					"name": "Krotchy1",
+					"polys": 1858,
+					"verts": 952
 				}
 			],
-			"name": "torso"
-		}, 
-		{
-			"models": [
-				{
-					"name": "SC_cave_head_ref",
-					"polys": 2242,
-					"verts": 1167
-				}
-			],
-			"name": "head"
-		}, 
-		{
-			"models": [
-				{
-					"name": "SC_male_legs_ref",
-					"polys": 916,
-					"verts": 509
-				}
-			],
-			"name": "legs"
+			"name": "gatiito_sc"
 		}
 	],
 	"controllers": [
 		{
-			"bone": 2,
+			"bone": 8,
 			"end": 30.000000,
 			"index": 0,
 			"rest": 0,
@@ -63,7 +43,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 3,
+			"bone": 9,
 			"end": 30.000000,
 			"index": 1,
 			"rest": 0,
@@ -71,7 +51,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 4,
+			"bone": 10,
 			"end": 30.000000,
 			"index": 2,
 			"rest": 0,
@@ -79,20 +59,12 @@
 			"type": 8
 		}, 
 		{
-			"bone": 5,
+			"bone": 11,
 			"end": 30.000000,
 			"index": 3,
 			"rest": 0,
 			"start": -30.000000,
 			"type": 8
-		}, 
-		{
-			"bone": 28,
-			"end": 25.000000,
-			"index": 4,
-			"rest": 0,
-			"start": 0.000000,
-			"type": 32
 		}
 	],
 	"events": [
@@ -329,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "d7590bc7e167f7dcfc90d4aecebffe32",
-	"name": "hevbarney.mdl",
+	"md5": "467a41216208603832d4afb87c41fbc1",
+	"name": "Krotchy.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -380,7 +352,7 @@
 		}, 
 		{
 			"fps": 24.000000,
-			"frames": 37,
+			"frames": 21,
 			"name": "long_jump"
 		}, 
 		{
@@ -1287,9 +1259,14 @@
 			"fps": 10.000000,
 			"frames": 22,
 			"name": "action_wave"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 10,
+			"name": "ImperiumSvenCoop"
 		}
 	],
-	"size": 2088392,
+	"size": 1106936,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1300,68 +1277,68 @@
 			"parent": 0
 		}, 
 		{
+			"name": "Bip01 L Leg",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 L Leg1",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01 L Foot",
+			"parent": 3
+		}, 
+		{
+			"name": "Bip01 R Leg",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 R Leg1",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip01 R Foot",
+			"parent": 6
+		}, 
+		{
 			"name": "Bip01 Spine",
 			"parent": 1
 		}, 
 		{
 			"name": "Bip01 Spine1",
-			"parent": 2
-		}, 
-		{
-			"name": "Bip01 Spine2",
-			"parent": 3
-		}, 
-		{
-			"name": "Bip01 Spine3",
-			"parent": 4
-		}, 
-		{
-			"name": "Bip01 Neck",
-			"parent": 5
-		}, 
-		{
-			"name": "Bip01 L Arm",
-			"parent": 6
-		}, 
-		{
-			"name": "Bip01 L Arm1",
-			"parent": 7
-		}, 
-		{
-			"name": "Bip01 L Arm2",
 			"parent": 8
 		}, 
 		{
-			"name": "Bip01 L Hand",
+			"name": "Bip01 Spine2",
 			"parent": 9
 		}, 
 		{
-			"name": "Bip01 L Finger0",
+			"name": "Bip01 Spine3",
 			"parent": 10
 		}, 
 		{
-			"name": "Bip01 L Finger01",
+			"name": "Bip01 Neck",
 			"parent": 11
 		}, 
 		{
-			"name": "Bip01 L Finger02",
+			"name": "Bip01 L Arm",
 			"parent": 12
 		}, 
 		{
-			"name": "Bip01 L Finger1",
-			"parent": 10
+			"name": "Bip01 L Arm1",
+			"parent": 13
 		}, 
 		{
-			"name": "Bip01 L Finger11",
+			"name": "Bip01 L Arm2",
 			"parent": 14
 		}, 
 		{
-			"name": "Bip01 L Finger12",
+			"name": "Bip01 L Hand",
 			"parent": 15
 		}, 
 		{
 			"name": "Bip01 R Arm",
-			"parent": 6
+			"parent": 12
 		}, 
 		{
 			"name": "Bip01 R Arm1",
@@ -1376,60 +1353,8 @@
 			"parent": 19
 		}, 
 		{
-			"name": "Bip01 R Finger0",
-			"parent": 20
-		}, 
-		{
-			"name": "Bip01 R Finger01",
-			"parent": 21
-		}, 
-		{
-			"name": "Bip01 R Finger02",
-			"parent": 22
-		}, 
-		{
-			"name": "Bip01 R Finger1",
-			"parent": 20
-		}, 
-		{
-			"name": "Bip01 R Finger11",
-			"parent": 24
-		}, 
-		{
-			"name": "Bip01 R Finger12",
-			"parent": 25
-		}, 
-		{
 			"name": "Bip01 Head",
-			"parent": 6
-		}, 
-		{
-			"name": "mouth",
-			"parent": 27
-		}, 
-		{
-			"name": "Bip01 L Leg",
-			"parent": 1
-		}, 
-		{
-			"name": "Bip01 L Leg1",
-			"parent": 29
-		}, 
-		{
-			"name": "Bip01 L Foot",
-			"parent": 30
-		}, 
-		{
-			"name": "Bip01 R Leg",
-			"parent": 1
-		}, 
-		{
-			"name": "Bip01 R Leg1",
-			"parent": 32
-		}, 
-		{
-			"name": "Bip01 R Foot",
-			"parent": 33
+			"parent": 12
 		}
 	],
 	"skins": 1,
@@ -1438,80 +1363,14 @@
 		{
 			"flags": 0,
 			"height": 512,
-			"name": "RemapB_128_255_255.bmp",
+			"name": "Krotchy.bmp",
 			"width": 512
-		}, 
-		{
-			"flags": 0,
-			"height": 348,
-			"name": "RemapA_000_255_255.bmp",
-			"width": 404
-		}, 
-		{
-			"flags": 0,
-			"height": 65,
-			"name": "elbow.bmp",
-			"width": 128
-		}, 
-		{
-			"flags": 3,
-			"height": 64,
-			"name": "PLAYER_Chrome1.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 0,
-			"height": 512,
-			"name": "Sven_HEV_Glove.bmp",
-			"width": 512
-		}, 
-		{
-			"flags": 3,
-			"height": 64,
-			"name": "Chrome_50Gry1.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 0,
-			"height": 64,
-			"name": "latex.bmp",
-			"width": 64
 		}, 
 		{
 			"flags": 64,
-			"height": 256,
-			"name": "sclogotrans.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 0,
-			"height": 256,
-			"name": "HEV_neck.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 0,
-			"height": 128,
-			"name": "mouth.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 0,
-			"height": 256,
-			"name": "johnson_head_diff2.bmp",
-			"width": 512
-		}, 
-		{
-			"flags": 0,
-			"height": 128,
-			"name": "eye.bmp",
-			"width": 128
-		}, 
-		{
-			"flags": 0,
-			"height": 73,
-			"name": "knee.bmp",
-			"width": 256
+			"height": 32,
+			"name": "null.bmp",
+			"width": 32
 		}
 	],
 	"version": 10

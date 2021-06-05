@@ -1,22 +1,22 @@
 {
 	"attachments": [
 		{
-			"bone": 20,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 20,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 20,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 10,
+			"bone": 17,
 			"name": "",
 			"type": 0
 		}
@@ -25,37 +25,17 @@
 		{
 			"models": [
 				{
-					"name": "SC_male_torso_ref",
-					"polys": 2628,
-					"verts": 1186
+					"name": "ARover",
+					"polys": 637,
+					"verts": 336
 				}
 			],
-			"name": "torso"
-		}, 
-		{
-			"models": [
-				{
-					"name": "SC_cave_head_ref",
-					"polys": 2242,
-					"verts": 1167
-				}
-			],
-			"name": "head"
-		}, 
-		{
-			"models": [
-				{
-					"name": "SC_male_legs_ref",
-					"polys": 916,
-					"verts": 509
-				}
-			],
-			"name": "legs"
+			"name": "body"
 		}
 	],
 	"controllers": [
 		{
-			"bone": 2,
+			"bone": 8,
 			"end": 30.000000,
 			"index": 0,
 			"rest": 0,
@@ -63,7 +43,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 3,
+			"bone": 9,
 			"end": 30.000000,
 			"index": 1,
 			"rest": 0,
@@ -71,7 +51,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 4,
+			"bone": 10,
 			"end": 30.000000,
 			"index": 2,
 			"rest": 0,
@@ -79,20 +59,12 @@
 			"type": 8
 		}, 
 		{
-			"bone": 5,
+			"bone": 11,
 			"end": 30.000000,
 			"index": 3,
 			"rest": 0,
 			"start": -30.000000,
 			"type": 8
-		}, 
-		{
-			"bone": 28,
-			"end": 25.000000,
-			"index": 4,
-			"rest": 0,
-			"start": 0.000000,
-			"type": 32
 		}
 	],
 	"events": [
@@ -174,30 +146,30 @@
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_SG.txt",
+			"options": "15",
 			"sequence": 65,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_SG.txt",
+			"options": "15",
 			"sequence": 69,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_MP5.txt",
+			"options": "20",
 			"sequence": 79,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_MP5.txt",
+			"options": "20",
 			"sequence": 83,
 			"type": 0
 		}, 
@@ -329,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "d7590bc7e167f7dcfc90d4aecebffe32",
-	"name": "hevbarney.mdl",
+	"md5": "5e475ffe558aaf8f389e8af882c32d73",
+	"name": "C:\\Users\\Seryus\\Desktop\\ARover\\ARover.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1289,7 +1261,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 2088392,
+	"size": 846736,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1300,124 +1272,16 @@
 			"parent": 0
 		}, 
 		{
-			"name": "Bip01 Spine",
-			"parent": 1
-		}, 
-		{
-			"name": "Bip01 Spine1",
-			"parent": 2
-		}, 
-		{
-			"name": "Bip01 Spine2",
-			"parent": 3
-		}, 
-		{
-			"name": "Bip01 Spine3",
-			"parent": 4
-		}, 
-		{
-			"name": "Bip01 Neck",
-			"parent": 5
-		}, 
-		{
-			"name": "Bip01 L Arm",
-			"parent": 6
-		}, 
-		{
-			"name": "Bip01 L Arm1",
-			"parent": 7
-		}, 
-		{
-			"name": "Bip01 L Arm2",
-			"parent": 8
-		}, 
-		{
-			"name": "Bip01 L Hand",
-			"parent": 9
-		}, 
-		{
-			"name": "Bip01 L Finger0",
-			"parent": 10
-		}, 
-		{
-			"name": "Bip01 L Finger01",
-			"parent": 11
-		}, 
-		{
-			"name": "Bip01 L Finger02",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 L Finger1",
-			"parent": 10
-		}, 
-		{
-			"name": "Bip01 L Finger11",
-			"parent": 14
-		}, 
-		{
-			"name": "Bip01 L Finger12",
-			"parent": 15
-		}, 
-		{
-			"name": "Bip01 R Arm",
-			"parent": 6
-		}, 
-		{
-			"name": "Bip01 R Arm1",
-			"parent": 17
-		}, 
-		{
-			"name": "Bip01 R Arm2",
-			"parent": 18
-		}, 
-		{
-			"name": "Bip01 R Hand",
-			"parent": 19
-		}, 
-		{
-			"name": "Bip01 R Finger0",
-			"parent": 20
-		}, 
-		{
-			"name": "Bip01 R Finger01",
-			"parent": 21
-		}, 
-		{
-			"name": "Bip01 R Finger02",
-			"parent": 22
-		}, 
-		{
-			"name": "Bip01 R Finger1",
-			"parent": 20
-		}, 
-		{
-			"name": "Bip01 R Finger11",
-			"parent": 24
-		}, 
-		{
-			"name": "Bip01 R Finger12",
-			"parent": 25
-		}, 
-		{
-			"name": "Bip01 Head",
-			"parent": 6
-		}, 
-		{
-			"name": "mouth",
-			"parent": 27
-		}, 
-		{
 			"name": "Bip01 L Leg",
 			"parent": 1
 		}, 
 		{
 			"name": "Bip01 L Leg1",
-			"parent": 29
+			"parent": 2
 		}, 
 		{
 			"name": "Bip01 L Foot",
-			"parent": 30
+			"parent": 3
 		}, 
 		{
 			"name": "Bip01 R Leg",
@@ -1425,93 +1289,107 @@
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 32
+			"parent": 5
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 33
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 Spine",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Spine1",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 Spine2",
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 Spine3",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 L Arm",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 L Arm1",
+			"parent": 14
+		}, 
+		{
+			"name": "Bip01 L Arm2",
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 R Arm1",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 R Arm2",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 20
 		}
 	],
 	"skins": 1,
 	"t_model": false,
 	"textures": [
 		{
-			"flags": 0,
-			"height": 512,
-			"name": "RemapB_128_255_255.bmp",
-			"width": 512
-		}, 
-		{
-			"flags": 0,
-			"height": 348,
-			"name": "RemapA_000_255_255.bmp",
-			"width": 404
-		}, 
-		{
-			"flags": 0,
-			"height": 65,
-			"name": "elbow.bmp",
-			"width": 128
-		}, 
-		{
-			"flags": 3,
-			"height": 64,
-			"name": "PLAYER_Chrome1.bmp",
+			"flags": 1,
+			"height": 32,
+			"name": "Mount.bmp",
 			"width": 64
 		}, 
 		{
-			"flags": 0,
-			"height": 512,
-			"name": "Sven_HEV_Glove.bmp",
-			"width": 512
-		}, 
-		{
-			"flags": 3,
-			"height": 64,
-			"name": "Chrome_50Gry1.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 0,
-			"height": 64,
-			"name": "latex.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 64,
-			"height": 256,
-			"name": "sclogotrans.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 0,
-			"height": 256,
-			"name": "HEV_neck.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 0,
+			"flags": 1,
 			"height": 128,
-			"name": "mouth.bmp",
-			"width": 256
+			"name": "Eyes.bmp",
+			"width": 64
 		}, 
 		{
-			"flags": 0,
-			"height": 256,
-			"name": "johnson_head_diff2.bmp",
-			"width": 512
-		}, 
-		{
-			"flags": 0,
+			"flags": 1,
 			"height": 128,
-			"name": "eye.bmp",
-			"width": 128
+			"name": "b0.bmp",
+			"width": 64
 		}, 
 		{
-			"flags": 0,
-			"height": 73,
-			"name": "knee.bmp",
-			"width": 256
+			"flags": 1,
+			"height": 56,
+			"name": "Back.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 1,
+			"height": 29,
+			"name": "Belly.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 32,
+			"height": 1,
+			"name": "default.bmp",
+			"width": 4
 		}
 	],
 	"version": 10
