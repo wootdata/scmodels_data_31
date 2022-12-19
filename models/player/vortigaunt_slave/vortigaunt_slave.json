@@ -1,0 +1,630 @@
+{
+	"attachments": [
+		{
+			"bone": 26,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 16,
+			"name": "",
+			"type": 0
+		}
+	],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "BMS_Vortigaunt_Slave_islave_body_main",
+					"polys": 2702,
+					"verts": 1357
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "BMS_Vortigaunt_Slave_islave_shackles_normal",
+					"polys": 1214,
+					"verts": 489
+				}, 
+				{
+					"name": "blank",
+					"polys": 0,
+					"verts": 0
+				}
+			],
+			"name": "shackles"
+		}, 
+		{
+			"models": [
+				{
+					"name": "BMS_Vortigaunt_Slave_islave_body_head",
+					"polys": 1624,
+					"verts": 818
+				}
+			],
+			"name": "head"
+		}, 
+		{
+			"models": [
+				{
+					"name": "BMS_Vortigaunt_Slave_islave_add_2",
+					"polys": 2702,
+					"verts": 1357
+				}
+			],
+			"name": "effect1"
+		}, 
+		{
+			"models": [
+				{
+					"name": "BMS_Vortigaunt_Slave_islave_add_3",
+					"polys": 1422,
+					"verts": 750
+				}
+			],
+			"name": "effect2"
+		}, 
+		{
+			"models": [
+				{
+					"name": "BMS_Vortigaunt_Slave_islave_emissivemask",
+					"polys": 1624,
+					"verts": 818
+				}
+			],
+			"name": "emissivemask"
+		}, 
+		{
+			"models": [
+				{
+					"name": "BMS_Vortigaunt_Slave_eye_chrome",
+					"polys": 146,
+					"verts": 108
+				}
+			],
+			"name": "eye_chrome"
+		}, 
+		{
+			"models": [
+				{
+					"name": "BMS_Vortigaunt_Slave_islave_shackles_black",
+					"polys": 831,
+					"verts": 489
+				}
+			],
+			"name": "shackles_black"
+		}
+	],
+	"controllers": [
+		{
+			"bone": 8,
+			"end": 30.000000,
+			"index": 0,
+			"rest": 0,
+			"start": -30.000000,
+			"type": 8
+		}, 
+		{
+			"bone": 9,
+			"end": 30.000000,
+			"index": 1,
+			"rest": 0,
+			"start": -30.000000,
+			"type": 8
+		}, 
+		{
+			"bone": 10,
+			"end": 10.000000,
+			"index": 2,
+			"rest": 0,
+			"start": -10.000000,
+			"type": 8
+		}, 
+		{
+			"bone": 11,
+			"end": 10.000000,
+			"index": 3,
+			"rest": 0,
+			"start": -10.000000,
+			"type": 16
+		}
+	],
+	"events": [
+		{
+			"event": 2001,
+			"frame": 8,
+			"options": "",
+			"sequence": 12,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 12,
+			"options": "",
+			"sequence": 13,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 14,
+			"options": "",
+			"sequence": 14,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 7,
+			"options": "",
+			"sequence": 15,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 21,
+			"options": "",
+			"sequence": 16,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 15,
+			"options": "",
+			"sequence": 17,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 21,
+			"options": "",
+			"sequence": 18,
+			"type": 0
+		}
+	],
+	"id": 1414743113,
+	"md5": "5ff16e3eeb9a32c7dac0c43c3d9cf7cd",
+	"name": "BMS_Vortigaunt_Slave_FIXED.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 15.000000,
+			"frames": 32,
+			"name": "look_idle"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 32,
+			"name": "idle"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 32,
+			"name": "deep_idle"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 25,
+			"name": "run2"
+		}, 
+		{
+			"fps": 26.000000,
+			"frames": 33,
+			"name": "walk2handed"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 2,
+			"name": "2handshoot"
+		}, 
+		{
+			"fps": 22.000000,
+			"frames": 21,
+			"name": "crawl"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 21,
+			"name": "crouch_idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 128,
+			"name": "jump"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 33,
+			"name": "long_jump"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 31,
+			"name": "swim"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 31,
+			"name": "treadwater"
+		}, 
+		{
+			"fps": 34.000000,
+			"frames": 31,
+			"name": "die_simple"
+		}, 
+		{
+			"fps": 37.000000,
+			"frames": 35,
+			"name": "die_backwards1"
+		}, 
+		{
+			"fps": 29.000000,
+			"frames": 35,
+			"name": "die_backwards"
+		}, 
+		{
+			"fps": 42.500000,
+			"frames": 31,
+			"name": "die_forwards"
+		}, 
+		{
+			"fps": 34.000000,
+			"frames": 40,
+			"name": "headshot"
+		}, 
+		{
+			"fps": 49.000000,
+			"frames": 40,
+			"name": "die_spin"
+		}, 
+		{
+			"fps": 22.000000,
+			"frames": 31,
+			"name": "gutshot"
+		}, 
+		{
+			"fps": 53.000000,
+			"frames": 31,
+			"name": "ref_draw_crowbar"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 31,
+			"name": "ref_aim_crowbar"
+		}, 
+		{
+			"fps": 59.000000,
+			"frames": 33,
+			"name": "ref_shoot_crowbar"
+		}, 
+		{
+			"fps": 36.000000,
+			"frames": 21,
+			"name": "crouch_draw_crowbar"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 21,
+			"name": "crouch_aim_crowbar"
+		}, 
+		{
+			"fps": 39.000000,
+			"frames": 21,
+			"name": "crouch_shoot_crowbar"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 48,
+			"name": "ref_cock_wrench"
+		}, 
+		{
+			"fps": 22.000000,
+			"frames": 34,
+			"name": "ref_hold_wrench"
+		}, 
+		{
+			"fps": 13.000000,
+			"frames": 13,
+			"name": "ref_shoot_wrench"
+		}, 
+		{
+			"fps": 22.000000,
+			"frames": 21,
+			"name": "crouch_cock_wrench"
+		}, 
+		{
+			"fps": 13.000000,
+			"frames": 1,
+			"name": "crouch_hold_wrench"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 21,
+			"name": "crouch_shoot_wrench"
+		}, 
+		{
+			"fps": 31.000000,
+			"frames": 25,
+			"name": "run"
+		}, 
+		{
+			"fps": 31.000000,
+			"frames": 33,
+			"name": "walk"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 31,
+			"name": "aim_2"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 33,
+			"name": "shoot_2"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 31,
+			"name": "aim_1"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 33,
+			"name": "shoot_1"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 31,
+			"name": "ref_aim_mp5"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 48,
+			"name": "CHARGE"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 23,
+			"name": "FIRE"
+		}
+	],
+	"size": 2161492,
+	"skeleton": [
+		{
+			"name": "Bip01",
+			"parent": -1
+		}, 
+		{
+			"name": "Bip01 Pelvis",
+			"parent": 0
+		}, 
+		{
+			"name": "Bip01 L Thigh",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 L Calf",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01 L Foot",
+			"parent": 3
+		}, 
+		{
+			"name": "Bip01 R Thigh",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 R Calf",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip01 R Foot",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 Spine",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Spine1",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 Spine2",
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 Spine3",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 L Clavicle",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 L UpperArm",
+			"parent": 13
+		}, 
+		{
+			"name": "Bip01 L Forearm",
+			"parent": 14
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 L Finger0",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 L Finger01",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Finger02",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 L Finger1",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 20
+		}, 
+		{
+			"name": "Bip01 L Finger12",
+			"parent": 21
+		}, 
+		{
+			"name": "Bip01 R Clavicle",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 R UpperArm",
+			"parent": 23
+		}, 
+		{
+			"name": "Bip01 R Forearm",
+			"parent": 24
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 25
+		}, 
+		{
+			"name": "Bip01 R Finger0",
+			"parent": 26
+		}, 
+		{
+			"name": "Bip01 R Finger01",
+			"parent": 27
+		}, 
+		{
+			"name": "Bip01 R Finger02",
+			"parent": 28
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 26
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 30
+		}, 
+		{
+			"name": "Bip01 R Finger12",
+			"parent": 31
+		}, 
+		{
+			"name": "Mid Arm",
+			"parent": 10
+		}, 
+		{
+			"name": "Mid Arm 1",
+			"parent": 33
+		}, 
+		{
+			"name": "Mid Arm 2",
+			"parent": 34
+		}, 
+		{
+			"name": "Mid Hand",
+			"parent": 35
+		}, 
+		{
+			"name": "Mid Hand 1",
+			"parent": 36
+		}, 
+		{
+			"name": "Mid Finger 1",
+			"parent": 37
+		}, 
+		{
+			"name": "Mid Finger 11",
+			"parent": 38
+		}, 
+		{
+			"name": "Mid Finger 2",
+			"parent": 37
+		}, 
+		{
+			"name": "Mid Finger 21",
+			"parent": 40
+		}, 
+		{
+			"name": "Bip01 Neck1",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 42
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 1024,
+			"name": "vortigaunt_base.bmp",
+			"width": 1024
+		}, 
+		{
+			"flags": 35,
+			"height": 64,
+			"name": "shackles_chrome.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "shackles.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "vort_eye.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 35,
+			"height": 64,
+			"name": "body_chrome.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 36,
+			"height": 512,
+			"name": "vortigaunt_emissivemask.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 36,
+			"height": 64,
+			"name": "vort_eye2.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 35,
+			"height": 64,
+			"name": "eye_chrome.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 4,
+			"height": 512,
+			"name": "shackles2.bmp",
+			"width": 256
+		}
+	],
+	"version": 10
+}
