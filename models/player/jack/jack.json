@@ -1,17 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 27,
+			"bone": 25,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 27,
+			"bone": 25,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 27,
+			"bone": 25,
 			"name": "",
 			"type": 0
 		}, 
@@ -25,9 +25,9 @@
 		{
 			"models": [
 				{
-					"name": "jack",
-					"polys": 838,
-					"verts": 445
+					"name": "reference",
+					"polys": 595,
+					"verts": 314
 				}
 			],
 			"name": "body"
@@ -301,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "eeae5f72c834847557442e874f185187",
-	"name": "jack.mdl",
+	"md5": "86a344c3e2943aae999721fc21bf9be9",
+	"name": "C:\\Documents and Settings\\Dukester X\\Desktop\\ahl players\\!SVEN p",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1216,7 +1216,7 @@
 			"name": "ShannonCaldwell_v1.2"
 		}
 	],
-	"size": 1149420,
+	"size": 891080,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1291,28 +1291,20 @@
 			"parent": 16
 		}, 
 		{
-			"name": "Bip01 Dito mano SX0",
+			"name": "Bip01 L Finger0",
 			"parent": 17
 		}, 
 		{
-			"name": "Bip01 Dito mano SX01",
+			"name": "Bip01 L Finger01",
 			"parent": 18
 		}, 
 		{
-			"name": "Bip01 Dito mano SX02",
+			"name": "Bip01 L Finger02",
 			"parent": 19
 		}, 
 		{
-			"name": "Bip01 Dito mano SX1",
+			"name": "Bip01 L Finger1",
 			"parent": 17
-		}, 
-		{
-			"name": "Bip01 Dito mano SX11",
-			"parent": 21
-		}, 
-		{
-			"name": "Bip01 Dito mano SX12",
-			"parent": 22
 		}, 
 		{
 			"name": "Bip01 R Arm",
@@ -1320,39 +1312,27 @@
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 24
+			"parent": 22
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 25
+			"parent": 23
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 26
+			"parent": 24
 		}, 
 		{
-			"name": "Bip01 Dito mano DX0",
+			"name": "Bip01 R Finger0",
+			"parent": 25
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 25
+		}, 
+		{
+			"name": "Bip01 R Finger11",
 			"parent": 27
-		}, 
-		{
-			"name": "Bip01 Dito mano DX01",
-			"parent": 28
-		}, 
-		{
-			"name": "Bip01 Dito mano DX02",
-			"parent": 29
-		}, 
-		{
-			"name": "Bip01 Dito mano DX1",
-			"parent": 27
-		}, 
-		{
-			"name": "Bip01 Dito mano DX11",
-			"parent": 31
-		}, 
-		{
-			"name": "Bip01 Dito mano DX12",
-			"parent": 32
 		}
 	],
 	"skins": 1,
@@ -1360,14 +1340,8 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 512,
-			"name": "suit.bmp",
-			"width": 512
-		}, 
-		{
-			"flags": 0,
 			"height": 256,
-			"name": "jack_head.bmp",
+			"name": "jack.bmp",
 			"width": 256
 		}
 	],
