@@ -296,8 +296,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "bf8f71a905d65da1f6d09a45add2a52e",
-	"name": "scream.mdl",
+	"md5": "0261e2a7ac2357f279a6e1fdb4bc9249",
+	"name": "Scream.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1242,7 +1242,7 @@
 		}, 
 		{
 			"fps": 18.000000,
-			"frames": 71,
+			"frames": 66,
 			"name": "action_retina"
 		}, 
 		{
@@ -1256,7 +1256,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 1011456,
+	"size": 1005872,
 	"skeleton": [
 		{
 			"name": "Bip01",
