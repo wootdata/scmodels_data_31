@@ -10,7 +10,7 @@ Animation by Sven Co-op Team
 Model, Skin, Customized animation, Compiled by originaldon
 
 Programs Used: MilkShape 3D, Blender, SAI, EDGE
-Website: http://tepodonsc35.g1.xrea.com/
+Website: http://www.geocities.jp/tepodonsc35/
 
 03-11-2016 updated ver1.2 (Fixed Model, Animation)
 02-10-2016 updated ver1.1 (Fixed Model, Animation, Skin)
