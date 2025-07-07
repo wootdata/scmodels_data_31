@@ -38,6 +38,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 15,
@@ -292,7 +293,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6779498c060b2b14846834a9c974a483",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "soldier_barney2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

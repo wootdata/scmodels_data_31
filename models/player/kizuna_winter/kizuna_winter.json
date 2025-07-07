@@ -213,6 +213,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -941,7 +942,11 @@
 	],
 	"id": 1414743113,
 	"md5": "da7f9d10c6765c17b4789ff42d0b4270",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "vtuber_kizuna_black.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

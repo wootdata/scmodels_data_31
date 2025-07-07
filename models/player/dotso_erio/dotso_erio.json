@@ -48,6 +48,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -382,7 +383,11 @@
 	],
 	"id": 1414743113,
 	"md5": "875b6b4427ad9ecf52a26f93c169f5e9",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "DOTSO_Erio.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

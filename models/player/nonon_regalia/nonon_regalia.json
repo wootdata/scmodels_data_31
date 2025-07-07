@@ -263,6 +263,7 @@
 			"name": "Body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -533,7 +534,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9c8aae6feb48af8284b2eb9a5c9e7875",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Nonon_Regalia.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

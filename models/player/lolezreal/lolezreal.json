@@ -73,6 +73,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 0,
@@ -343,7 +344,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4b3c0b0c6298d7a01dadc9bbda2e240a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Ezreal.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

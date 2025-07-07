@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -279,7 +280,11 @@
 	],
 	"id": 1414743113,
 	"md5": "382f7d18741f6e5938a7b5ada7698f6a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "otis.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

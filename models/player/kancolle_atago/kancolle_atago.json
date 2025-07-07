@@ -108,6 +108,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -426,7 +427,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9d23ad51a85d745202450fa181d3ef09",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "BWTGS_sana.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

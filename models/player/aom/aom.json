@@ -38,6 +38,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 41,
@@ -316,7 +317,11 @@
 	],
 	"id": 1414743113,
 	"md5": "87519939ea6cfc64145bf31946af5783",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "aom.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

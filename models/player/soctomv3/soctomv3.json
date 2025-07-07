@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -2294,7 +2295,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3564c3ef7247840eac36d315aed48621",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "soctomv3.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

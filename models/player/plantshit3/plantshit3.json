@@ -12,12 +12,17 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1497364811,
 	"events": [],
 	"id": 1414743113,
 	"md5": "f0f9ef98ddf7b0f982e5b4dec14acc5d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "shrubv01.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

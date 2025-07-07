@@ -53,6 +53,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c4c584bf3f41fe5a750eeb437eb22851",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "8bitwarlock_cinema.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

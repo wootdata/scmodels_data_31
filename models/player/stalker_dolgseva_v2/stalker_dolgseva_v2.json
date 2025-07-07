@@ -93,6 +93,7 @@
 			"name": "stalker"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -363,7 +364,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c317a143c6bb04032c004158f2effeb3",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "stalker_Dolgseva.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "62ce8d3786a285540f33f5e5a2c64ed2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "nekomata_mizugi_d.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

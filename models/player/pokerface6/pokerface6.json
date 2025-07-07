@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 14,
@@ -172,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5fe4580e3b345fa5f33fb3dc4431ef7c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "./jack/jack.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -163,6 +163,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -828,7 +829,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a95096f1ee6b4cb8efa72d2a56478808",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "nagato_xmas_blackn.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

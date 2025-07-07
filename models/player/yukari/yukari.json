@@ -233,6 +233,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -503,7 +504,11 @@
 	],
 	"id": 1414743113,
 	"md5": "fee12f3365bdffb1ae7b2da1b9da7e13",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "yukari.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

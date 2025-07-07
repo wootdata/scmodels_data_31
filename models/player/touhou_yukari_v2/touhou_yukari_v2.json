@@ -233,6 +233,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -503,7 +504,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7b65d442592a6931016b90c1c679746e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "touhou_yakumo_yukari.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

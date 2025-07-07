@@ -213,6 +213,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -731,7 +732,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a7e386ab9389061d3a3a45944d3cbe9e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Cookie_UDK.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

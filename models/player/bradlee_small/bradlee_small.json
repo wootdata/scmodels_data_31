@@ -33,6 +33,7 @@
 			"name": "Bun"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b22fa870187cd142dc275ada4b8c6ccd",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "bradlee_small.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

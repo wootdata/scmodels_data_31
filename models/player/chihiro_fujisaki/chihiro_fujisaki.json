@@ -273,6 +273,7 @@
 			"name": "skirt_r"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -543,7 +544,11 @@
 	],
 	"id": 1414743113,
 	"md5": "493560d5d599f0a27318935ff7989849",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Chihiro_Fujisaki.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

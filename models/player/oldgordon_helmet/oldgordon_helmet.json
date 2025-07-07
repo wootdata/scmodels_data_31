@@ -43,6 +43,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b78f566aeb60a16d0a5dda9a4670595f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "oldgordon.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

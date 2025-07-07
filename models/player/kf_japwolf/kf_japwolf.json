@@ -143,6 +143,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -808,7 +809,11 @@
 	],
 	"id": 1414743113,
 	"md5": "698d38a07546d2fca7cef54b55c929a6",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "KF_Shoebill_v2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

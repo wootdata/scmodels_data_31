@@ -23,6 +23,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 11,
@@ -293,7 +294,11 @@
 	],
 	"id": 1414743113,
 	"md5": "2ba8bbec96c9b39685134ccedab164a3",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "msc_male.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -12,6 +12,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": true,
 	"controllers": [],
 	"date": 1093099164,
 	"events": [
@@ -123,7 +124,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f4a638bf8c83cb52698404c89e9732e1",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "bike_fatherd.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

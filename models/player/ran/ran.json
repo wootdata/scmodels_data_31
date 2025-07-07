@@ -223,6 +223,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -493,7 +494,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4ae9874e774f7cd939fe21500777df6f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ran.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

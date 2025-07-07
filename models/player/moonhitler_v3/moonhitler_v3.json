@@ -33,6 +33,7 @@
 			"name": "torso"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -311,7 +312,11 @@
 	],
 	"id": 1414743113,
 	"md5": "41481a0667ce6238c24b3f2a1feaddd3",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "MoonHitler.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

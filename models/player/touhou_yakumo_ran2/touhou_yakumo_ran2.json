@@ -48,6 +48,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -374,7 +375,11 @@
 	],
 	"id": 1414743113,
 	"md5": "bf20db0d50a166cfcd3ab0448eca6e9c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "touhou_yakumo_ran.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

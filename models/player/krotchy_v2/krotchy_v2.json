@@ -33,6 +33,7 @@
 			"name": "gatiito_sc"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "467a41216208603832d4afb87c41fbc1",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Krotchy.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

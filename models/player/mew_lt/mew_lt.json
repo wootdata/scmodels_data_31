@@ -23,6 +23,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -384,7 +385,11 @@
 	],
 	"id": 1414743113,
 	"md5": "aa237fc6c61f885b3adb44cefc777282",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "mew.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

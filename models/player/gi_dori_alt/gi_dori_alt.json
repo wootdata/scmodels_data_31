@@ -183,6 +183,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -790,7 +791,11 @@
 	],
 	"id": 1414743113,
 	"md5": "af38c164219a33e2df953407feb99494",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GI_Dori.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

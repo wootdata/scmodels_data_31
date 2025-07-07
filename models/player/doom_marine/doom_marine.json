@@ -113,6 +113,7 @@
 			"name": "rightleg"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 7,
@@ -359,7 +360,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b56b058bf851cf78a23b0260f5091c43",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "hgrunt.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -133,6 +133,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -841,7 +842,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f1e6cdd67b4bd675957b61d94b0821b5",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "gfl_m4_sopmod_c2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

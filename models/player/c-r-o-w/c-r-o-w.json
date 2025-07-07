@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4fba50d77314b6d01d7a64cc3e70e6a4",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "c-r-o-w.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

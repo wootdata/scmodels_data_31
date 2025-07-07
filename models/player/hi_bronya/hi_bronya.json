@@ -183,6 +183,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -454,7 +455,11 @@
 	],
 	"id": 1414743113,
 	"md5": "443ff66d454bda6c57d8b42d10348d95",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "bronya_zaychik_v1.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

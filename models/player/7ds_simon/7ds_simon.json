@@ -283,6 +283,7 @@
 			"name": "torso_main_armor"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -553,7 +554,11 @@
 	],
 	"id": 1414743113,
 	"md5": "de656c1a2fb4505e4c2df3f2dad3a67b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Simon.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

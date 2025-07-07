@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 20,
@@ -306,7 +307,11 @@
 	],
 	"id": 1414743113,
 	"md5": "49de9d40c9e1bfe3822668e5dc6456aa",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "coat.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

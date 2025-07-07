@@ -43,6 +43,7 @@
 			"name": "battery"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "aba71de077a22355c406601d419d2403",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "css_urban_fm.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

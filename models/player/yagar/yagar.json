@@ -403,6 +403,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -1052,7 +1053,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8fe2580f56dedd41a625bf22be81bf4a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "fgo_astolfo.mdl",
+	"preview": false,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

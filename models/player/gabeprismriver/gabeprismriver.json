@@ -43,6 +43,7 @@
 			"name": "arms"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -411,7 +412,11 @@
 	],
 	"id": 1414743113,
 	"md5": "980e41da0e2dce5c2f42bc7e20edb461",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "gabeprismriver.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

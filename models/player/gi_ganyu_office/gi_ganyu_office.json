@@ -123,6 +123,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -506,7 +507,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7fcb12c9062a1cf63df9c3c0935065c9",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GI_Ganyu_Office.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 14,
@@ -172,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "1cb065f753dd4d039e7cb25030346b41",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "valve/models/player/Smurf/Smurf.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

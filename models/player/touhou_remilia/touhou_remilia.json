@@ -103,6 +103,7 @@
 			"name": "wing"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -373,7 +374,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4207bc9ccd7294b0b125e81f284bb0ba",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "touhou_Remilia_Scarlet.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
