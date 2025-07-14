@@ -288,6 +288,7 @@
 	"md5": "95d01582ed28794053f1244e6b756639",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 5,
 	"name": "soldier_reconf.mdl",
 	"preview": true,
 	"readme": false,

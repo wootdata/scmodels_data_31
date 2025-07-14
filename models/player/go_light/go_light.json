@@ -311,6 +311,7 @@
 	"md5": "9eafcffe91e5a3bd0b0074a33bade266",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 6,
 	"name": "go_light.mdl",
 	"preview": true,
 	"readme": false,

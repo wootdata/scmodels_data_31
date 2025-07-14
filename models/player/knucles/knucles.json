@@ -464,6 +464,7 @@
 	"md5": "0e7f9a31bfc0772292061d0b1f4ef2c7",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 5,
 	"name": "Models/Knuckles.mdl",
 	"preview": false,
 	"readme": false,
