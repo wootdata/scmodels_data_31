@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1185447424,
+	"date": 1780811535,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "1cb065f753dd4d039e7cb25030346b41",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/Smurf/Smurf.mdl",
 	"preview": true,
 	"readme": false,

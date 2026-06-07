@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1519736808,
+	"date": 1780811535,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "5fe4580e3b345fa5f33fb3dc4431ef7c",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "./jack/jack.mdl",
 	"preview": true,
 	"readme": false,

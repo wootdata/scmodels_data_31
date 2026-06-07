@@ -232,7 +232,7 @@
 			"type": 8
 		}
 	],
-	"date": 1700848452,
+	"date": 1780811535,
 	"events": [
 		{
 			"event": 5004,
@@ -792,6 +792,7 @@
 	"md5": "d638c5f7518f254bec9b79ae7d8e04e8",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 7,
 	"name": "gi_klee_v2.mdl",
 	"preview": true,
 	"readme": true,

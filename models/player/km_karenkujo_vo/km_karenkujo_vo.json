@@ -135,7 +135,7 @@
 			"type": 32
 		}
 	],
-	"date": 1641073508,
+	"date": 1780811535,
 	"events": [
 		{
 			"event": 5004,
@@ -422,6 +422,7 @@
 	"md5": "73acc9d5ebf7e2bf6d81106c51c2760d",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 7,
 	"name": "KM_KarenKujo.mdl",
 	"preview": true,
 	"readme": true,
